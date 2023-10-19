@@ -38,6 +38,6 @@
 ## Credits
 
 - IMDb API: [Rapid API](https://www.rapidapi.com/)
-- This project was developed by [Your Name].
+- This project was developed by Mudit Gupta.
 
 - Enjoy exploring movies with this IMDb clone project, and feel free to contribute or provide feedback to enhance its functionality and features.
