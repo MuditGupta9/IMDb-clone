@@ -1,4 +1,11 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMDb Clone Project</title>
+</head>
+<body>
     <h1>IMDb Clone Project</h1>
 
     <p>This IMDb clone project is a React-based web application that leverages the IMDb API from Rapid API to provide a seamless movie information and browsing experience. It offers a wide array of features, including categorization of movies into three distinct categories: "Popular," "Top Rated," and "Upcoming," each accessible through dedicated pages.</p>
@@ -42,4 +49,5 @@
     <p>This project was developed by [Your Name].</p>
 
     <p>Enjoy exploring movies with this IMDb clone project, and feel free to contribute or provide feedback to enhance its functionality and features.</p>
-
+</body>
+</html>
